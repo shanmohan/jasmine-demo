@@ -1,0 +1,22 @@
+{
+  "name": "Unit testing using jasmine",
+  "version": "0.0.0",
+  "authors": [
+    "Mohan Shanmugarajah <s404853@emirates.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "~1.4.7",
+    "jasmine-core": "jasmine#~2.3.4"
+  },
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
