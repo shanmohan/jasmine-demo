@@ -1,6 +1,6 @@
 /**
  * Created by Mohanachandran on 10/7/2015.
- * Purpose : This is for demo purpose
+ * Purpose : i have a different purpose
  */
 
 angular.module('demoJasmine').service('HomeService', homeService);
