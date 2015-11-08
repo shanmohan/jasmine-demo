@@ -25,7 +25,6 @@ function homeService($http){
         return promise.success(function(response){
             return response;
         })
-        //return promise.then()
     }
 
 }
