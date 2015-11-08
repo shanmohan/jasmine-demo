@@ -1,6 +1,8 @@
 /**
  * Created by Mohanachandran on 10/7/2015.
  * Purpose : i have a different purpose
+ * Purpose : This is for demo purpose
+ * This comment is added for feature-branch
  */
 
 angular.module('demoJasmine').service('HomeService', homeService);
@@ -29,3 +31,4 @@ function homeService($http){
     }
 
 }
+
